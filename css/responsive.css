@@ -1,0 +1,30 @@
+/*Menu Mobile*/
+@media (max-width:900px){
+    .container .right .top i{display: block!important;}
+}
+
+/*CELULARES*/
+@media (max-width: 599px){
+    .right{width: 90%!important;}
+    .img-area-mobile, .img-area-desktop{display: none!important;}
+}
+
+/*Tablets*/
+@media (min-width:600px){
+    .right{width: 90%!important;}
+    .right .news{margin: 5rem 0 2rem 0!important;}
+    .img-area-mobile{
+        max-width: 60rem!important;
+        align-self: center!important;
+    }
+    .container .img-area-mobile img{bottom: 2rem!important;}
+    .right h1{margin: 5rem 0!important;}
+    .img-area-desktop{display: none!important;}
+}
+
+/*Computadores*/
+@media (min-width:900px){
+    .right{width: 30%!important;}
+    .img-area-mobile{display: none!important;}
+    .img-area-desktop{display: block!important;}
+}
