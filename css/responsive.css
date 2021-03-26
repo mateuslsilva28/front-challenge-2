@@ -1,6 +1,32 @@
 /*Menu Mobile*/
 @media (max-width:900px){
     .container .right .top i{display: block!important;}
+
+    .active{display: block!important;}
+
+    #menu-mobile{
+        height: auto;
+        width: 100%!important;
+        background: #697E6F!important;
+        padding: 2rem 0 1rem 0;
+        text-transform: uppercase;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    #menu-mobile ul li{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0rem 0.1rem 0.3rem#555252!important;
+        padding: 1.2rem
+    }
+    
+    #menu-mobile ul li i{color: #E8BE4E}
+
+    #menu-mobile ul li a, #menu-mobile ul li i{
+        cursor: pointer;
+        font-size: 2.4rem;
+    }
 }
 
 /*CELULARES*/
