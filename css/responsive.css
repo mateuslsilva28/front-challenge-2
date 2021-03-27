@@ -51,6 +51,11 @@
     .img-area-desktop{display: none!important;}
 }
 
+/*Tablets com altura mínima de 1024px*/
+@media (min-height:1024px){
+    .container .right, .container .img-area{height: 60vh!important;}
+}
+
 /*Computadores*/
 @media (min-width:900px){
     .right{width: 30%!important;}
