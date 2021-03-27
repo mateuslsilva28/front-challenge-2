@@ -3,6 +3,9 @@
     .container .right .top i{display: block!important;}
 
     .active{display: block!important;}
+    .margin{
+        margin: 1.5rem 0 3rem 0;
+    }
 
     #menu-mobile{
         height: auto;
