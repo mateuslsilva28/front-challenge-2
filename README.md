@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Blogr is a modern publishing platform. An editor that supports blog management
+  Jardim is an instructional platform for creating gardens.
 </p>
 
 <p align="center">Project developed after the challenge of <a href="https://www.youtube.com/channel/UClXlPk9nHaZMvI-7Cs33isQ"><strong>Codesigners</strong></a> instructed by Brunão | <a href="https://www.udemy.com/user/bruno-cesar-de-sousa/">Udemy</a> to reproduce the layout of the "Jardim" without the use of frameworks.</p>
