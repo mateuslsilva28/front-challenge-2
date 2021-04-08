@@ -10,7 +10,7 @@
 
 <hr>
 
-<p align="center">In this project, I put unto practice responsive development, using only HTML and CSS, without using frameworks like Bootstrap./p>
+<p align="center">In this project, I put unto practice responsive development, using only HTML and CSS, without using frameworks like Bootstrap.</p>
 
 <p align="center">
   Made with dedication by <a href="https://github.com/mateuslsilva28/">Mateus Coelho da Silva
